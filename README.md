@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victor Matheus
+- 👋 Hi there, I’m Victor Matheus!
 - 👀 I’m interested in learn and work with Technologies
 - 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: Sports lover
