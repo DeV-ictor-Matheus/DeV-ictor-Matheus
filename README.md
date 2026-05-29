@@ -46,13 +46,6 @@ Projeto autoral que transforma o histórico de commits do GitHub em uma narrativ
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeV-ictor-Matheus&show_icons=true&theme=github_dark&hide_border=true)
-
----
 
 ##  Contato
 
