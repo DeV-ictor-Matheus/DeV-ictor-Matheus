@@ -48,10 +48,9 @@ Projeto autoral que transforma o histórico de commits do GitHub em uma narrativ
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeV-ictor-Matheus&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeV-ictor-Matheus&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeV-ictor-Matheus&show_icons=true&theme=github_dark&hide_border=true)
 
 ---
 
